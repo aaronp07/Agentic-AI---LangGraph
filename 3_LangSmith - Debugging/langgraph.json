@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "LangSmith_Agent": "./LangSmith_Agent.py:agent_execute"
+    },
+    "env": "../.env"
+}
