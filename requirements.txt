@@ -9,3 +9,8 @@ arxiv==2.4.1
 langchain-tavily==0.2.17
 langchain-ollama==1.0.1
 langgraph-cli[inmem]
+faiss-cpu==1.13.2
+pymupdf==1.27.2.2
+langchainhub==0.1.21
+langgraph-supervisor==0.0.31
+langchain-experimental==0.4.1
